@@ -37,24 +37,24 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
 1. [Bootsrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
-I have used Boostrap to help with responsiveness of the webpage as well as the styling
+    I have used Boostrap to help with responsiveness of the webpage as well as the styling
 
 2. [Google Font](https://fonts.google.com/)
 
-I have used Google font to import "Josefine Slab" into my style.css file, which is being used in all pages throughout the proyect
+    I have used Google font to import "Josefine Slab" into my style.css file, which is being used in all pages throughout the proyect
 
 3. [FontAwesome](https://fontawesome.com/)
 
-Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes
+    Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes
 
  4. [Balsamiq](https://balsamiq.com/)
 
- I used Balsamiq to create the wireframing during the desing process
+    I used Balsamiq to create the wireframing during the desing process
 
 5. [Git](https://git-scm.com/)
 
-Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub
+    Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub
 
 6. [Github](https://github.com/Gloria-21/yoga-project)
 
-I used GitHub to store the projects code after being pushed from Gitpod
+    I used GitHub to store the projects code after being pushed from Gitpod
