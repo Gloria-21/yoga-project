@@ -1,45 +1,45 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Purpose of the project
+## User stories
+## Features
 
-Welcome USER_NAME,
+* This website is responsive in all devices sizes
+* Have intectave elements such as forms and links
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## Future Features
+## Desing
+* Typography
+    For my typography I used google fonts, being Josefin Slab on sizes 400 and 600 the chosen one.
 
-## Gitpod Reminders
+* Color scheme
+    I have used colorSpace to generate my colour scheme. The Natural Palette was the final choice and that includes #DF7D6D, #FFF6F3, #BB8378, #EDE9D0 as main colours.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+* Imagery
+## Wireframe
 
-`python3 -m http.server`
+## Tecnologies Used 
 
-A blue button should appear to click: _Make Public_,
+### Languages used
+*[HTML5](https://en.wikipedia.org/wiki/HTML5)
+*[CSS3](https://en.wikipedia.org/wiki/CSS)
 
-Another blue button should appear to click: _Open Browser_.
+### Frameworks, Libraries & Programs Used
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+1. [Bootsrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+I have used Boostrap to help with responsiveness of the webpage as well as the styling
 
-A blue button should appear to click: _Make Public_,
+2. [Google Font](https://fonts.google.com/)
+I have used Google font to import "Josefine Slab" into my style.css file, which is being used in all pages throughout the proyect
 
-Another blue button should appear to click: _Open Browser_.
+3. [FontAwesome](https://fontawesome.com/)
+Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+ 4. [Balsamiq](https://balsamiq.com/)
 
-## Updates Since The Instructional Video
+ I used Balsamiq to create the wireframing during the desing process
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+5.[Git](https://git-scm.com/)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+6. [Github](https://github.com/Gloria-21/yoga-project)
+I used GitHub to store the projects code after being pushed from Gitpod
