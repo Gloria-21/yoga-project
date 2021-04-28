@@ -9,13 +9,15 @@
 ## Desing
 * **Typography**
 
-    For my typography I used google fonts, being Josefin Slab on sizes 400 and 600 the chosen one.
-
+    I used google fonts for my typography. I have chosen fonts Viga for the headers and Sarabun for the rest ot the page
+    
 * **Color scheme**
 
     I have used colorSpace to generate my colour scheme. The Natural Palette was the final choice and that includes #DF7D6D, #FFF6F3, #BB8378, #EDE9D0 as main colours.
 
 * Imagery
+
+    Video by Vlada Karpovich from Pexels
 ## Wireframe
 
 The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the desing and planning porcess of this project.
