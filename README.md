@@ -60,3 +60,10 @@ The wireframes that can be found below have been created using Balsamiq suring t
 6. [Github](https://github.com/Gloria-21/yoga-project)
 
     I used GitHub to store the projects code after being pushed from Gitpod
+
+### Bugs
+    This is my firt ever proyect coding on my own. So far I am finding it challenging as I am trying to put in use what I have learnt on the course so far as well as keep discovering new funtionalities on Boostrap and CSS.
+
+    My Navbar has been problematic from the beggining as I used navbar-light and bg-light and when I tried to apply my styling to the CSS sheet I was not able ot override boostrap styling. Looking for an answer I found !important, which worked perfecty until I was informed that is considered bad practice ...to be continued
+
+    I have problems also with the sizes of the images. First of all I made a mistake on my HTML structure as I missed the first part of the link on my src class. Also I have tried to set the image across the site in a way that will separate the navbar from the body but so far I can not find the correct size for it...to be continued
