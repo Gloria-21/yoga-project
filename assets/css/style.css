@@ -8,17 +8,76 @@
 }
 
 body {
-    background-color:#EDE9D0;
+    background-color:#FFF6F3;
     font-family: Sarabun, serif;
     color:#BB8378;
 }
 
-.logo {
-    font-family: Viga, serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color:  #BB8378;
+/* Navbar*/
+
+/* use !important to override bootstrap setting */
+
+.nav-link {
+    font-size: larger !important;
+    color: #EDE9D0 !important;
+    background-color: #DF7D6D !important;
+}
+
+.nav-link:hover {
+    color: #FFF6F3!important;
+}
+
+.navbar-light .navbar-brand {
+    color: #FFF6F3 !important;
+    background-color: #DF7D6D !important;
+}
+
+.navbar-light {
+    color: #DF7D6D !important;
 }
 
 
+.navbar-brand {
+    font-family: Viga, serif;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-weight: 650 !important;
+   
+}
 
+.navbar {
+    border: 0;
+    width: 100%;
+    background-color: #DF7D6D  !important;
+    color: #FFF6F3 !important;
+}
+
+.navbar-nav{}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+
+/* Features */
+
+/* code taken from CCS tricks - Perfect Full Page background - */
+#hero {
+    background: url("../images/hero.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.features-container{}
