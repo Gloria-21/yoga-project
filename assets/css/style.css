@@ -97,10 +97,9 @@ footer {
 }
 
 .social-links {
-    padding-left: 550px;
+    float: right;
+    margin-right: 20px;
 }
-.social-links li a i:hover {
-    background: #EDE9D0;
-}
+
 
 /* Footer */
