@@ -15,8 +15,6 @@ body {
 
 /* Navbar*/
 
-/*  */
-
 .nav-link {
     font-size: larger;
     color: #EDE9D0;
@@ -64,3 +62,45 @@ body {
 
 
 .features-container{}
+
+/* Footer */
+/* Inpiration for the design of this footer taken from the Miniproject with boostrap */
+footer {
+    background-color: #DF7D6D;
+    color: #FFF6F3;
+    min-height: 100px;
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+
+.btn {
+    background-color: #FFF6F3;
+    border: #BB8378;
+    margin: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 30px;
+    line-height: 30px;
+    align-items: right;
+    color: #FFF6F3;
+    background: #DF7D6D;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links {
+    padding-left: 550px;
+}
+.social-links li a i:hover {
+    background: #EDE9D0;
+}
+
+/* Footer */
