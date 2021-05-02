@@ -53,9 +53,20 @@ body {
 
 /* Images */
 
-.img-fluid {
+.background-container{
     max-width: 100%;
-    height: auto;
+    height: 100vh;
+    background: url("../images/hero.jpg") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
 }
 
 /* Features */
@@ -101,5 +112,17 @@ footer {
     margin-right: 20px;
 }
 
-
 /* Footer */
+
+/* Cards */
+
+.btn-card {
+    border: 5px;
+    width: 75%;
+    background-color: #DF7D6D ;
+    color: #FFF6F3;
+}
+
+.btn-card:hover {
+    color: #EDE9D0
+}
