@@ -54,9 +54,9 @@ body {
 /* Images */
 
 .background-container{
-    max-width: 100%;
     height: 100vh;
-    background: url("../images/hero.jpg") no-repeat;
+
+    background: url('../images/hero.jpg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -116,13 +116,20 @@ footer {
 
 /* Cards */
 
+.container-fluid {
+    margin-left: 150px;
+}
+
 .btn-card {
     border: 5px;
     width: 75%;
     background-color: #DF7D6D ;
-    color: #FFF6F3;
+    color: #EDE9D0;
 }
 
 .btn-card:hover {
-    color: #EDE9D0
+    color: #FFF6F3
 }
+
+/* cards*/
+
