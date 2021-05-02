@@ -69,3 +69,6 @@ The wireframes that can be found below have been created using Balsamiq suring t
     I have problems also with the sizes of the images. First of all I made a mistake on my HTML structure as I missed the first part of the link on my src class. Also looking on CCS-tricks I found a way to use as a background, that it wasn't my intial thought. That structure didn't work on my desing as it was too clutered but made me think of a smaller image and then write the welcome message on it.
 
     Whe I added the cards for the shcedules and the online courses to my features they shown one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side by side result on my desktop/tablet layout following the boostrap cheat-sheet https://hackerthemes.com/bootstrap-cheatsheet/#card__bg-primary
+
+    The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added <div style="overflow-x:auto;"> as seen on https://www.w3schools.com/howto/howto_css_table_responsive.asp
+    
