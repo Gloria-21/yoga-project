@@ -71,8 +71,9 @@ body {
 
 /* Features */
 
-
-.features-container{}
+.features-container {
+    margin-bottom: 50px;
+}
 
 /* Footer */
 /* Inpiration for the design of this footer taken from the Miniproject with boostrap */
@@ -133,3 +134,8 @@ footer {
 
 /* cards*/
 
+/* list*/
+
+.price-container {
+    text-align: center;
+}
