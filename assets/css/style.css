@@ -145,10 +145,14 @@ footer {
     text-align: center;
 }
 
-/* Bio teachers */
+/* Schedule*/
 
 .teachers-container {
     padding: 20px;
     background-color: #DF7D6D;
     color: #FFF6F3;
+}
+
+h2 {
+    padding: 20px;
 }
