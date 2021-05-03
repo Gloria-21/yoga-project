@@ -144,3 +144,11 @@ footer {
 .price-container {
     text-align: center;
 }
+
+/* Bio teachers */
+
+.teachers-container {
+    padding: 20px;
+    background-color: #DF7D6D;
+    color: #FFF6F3;
+}
