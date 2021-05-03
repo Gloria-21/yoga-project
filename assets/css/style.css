@@ -51,12 +51,12 @@ body {
 }
 
 
-/* Images */
+/* jumbotron */
 
 .background-container{
-    height: 100vh;
+    height: 40vh;
 
-    background: url('../images/hero.jpg') no-repeat bottom right fixed;
+    background: url('../images/hero.jpg') no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -69,9 +69,18 @@ body {
     position: relative;
 }
 
+.jumbotron {
+    background-position: center center;
+    padding: 0;
+}
+
+.jumbotron-header {
+    color: #EDE9D0;
+}
 /* Features */
 
 .features-container {
+    margin-top: 50px;
     margin-bottom: 50px;
 }
 
@@ -117,8 +126,8 @@ footer {
 
 /* Cards */
 
-.container-fluid {
-    margin-left: 150px;
+.container-card {
+    margin-left: 75px;
 }
 
 .btn-card {
