@@ -156,3 +156,16 @@ footer {
 h2 {
     padding: 20px;
 }
+
+/* contact us */
+
+form {
+    max-width: 500px;
+    margin: auto;
+}
+
+.contact-us {
+    text-align: center;
+    padding: 25px;
+}
+
