@@ -169,3 +169,25 @@ form {
     padding: 25px;
 }
 
+/* media */
+
+.features {
+    text-align: center;
+    padding: 25px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    padding: 25px;
+}
+
+.btn-modal {
+    background-color: #DF7D6D;
+    color: #FFF6F3;
+}
+
+.modal-subheader {
+    font-size: 15px;
+}
+
