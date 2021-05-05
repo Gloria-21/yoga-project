@@ -22,9 +22,9 @@
 
 The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the desing and planning porcess of this project.
 
-* Homepage Wireframe /*--- needs links*/
+* [Homepage Wireframe] (https://github.com/Gloria-21/yoga-project/blob/master/Yoga-project%20-%20desktop.mhtml)
 
-* Mobile Wireframe /*---needs links*/
+* [Mobile Wireframe] (https://github.com/Gloria-21/yoga-project/blob/master/Yoga-project%20-mobile.mhtml)
 
 * Contact us form Wireframe /*--needs links*/
 
