@@ -1,14 +1,13 @@
 # Yoga Project
 
-    Project - User-Centric Frontend Development - Code Institute.
+Project - User-Centric Frontend Development - Code Institute.
 
 ## Purpose of the project
 
-The purpose of this project is to create a yoga studio in Cambridgeshire that offers Hatta, Vinyasa yoga, and meditation. Providing that one of the teachers is a midwife they also offer prenatal and baby yoga.
-The studio impart possibilities for both face to face and online courses classes, making this way more accessible the practice of yoga
+The purpose of this project is to create a yoga studio in Cambridgeshire that offers Hatta, Vinyasa yoga, and meditation. Providing that one of the teachers is a midwife they also offer prenatal and baby yoga. The studio impart possibilities for both face to face and online courses classes, making this way more accessible the practice of yoga
 
 ## User stories
-    The end user of this project is mainly the female population as the usual majority of attendance on yoga classes is women. Also, we have to bear in mind the prenatal and baby yoga classes are going to bring mums to be or mums to the classes, so it is expected that the scope of women attending the studio will be in the range of 20 to 50 years old.
+The end user of this project is mainly the female population as the usual majority of attendance on yoga classes is women. Also, we have to bear in mind the prenatal and baby yoga classes are going to bring mums to be or mums to the classes, so it is expected that the scope of women attending the studio will be in the range of 20 to 50 years old.
 ## Features
 
 * This website is responsive in all devices sizes
