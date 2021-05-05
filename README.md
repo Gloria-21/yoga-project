@@ -1,5 +1,14 @@
+# Yoga Project
+
+    Project - User-Centric Frontend Development - Code Institute.
+
 ## Purpose of the project
+
+The purpose of this project is to create a yoga studio in Cambridgeshire that offers Hatta, Vinyasa yoga, and meditation. Providing that one of the teachers is a midwife they also offer prenatal and baby yoga.
+The studio impart possibilities for both face to face and online courses classes, making this way more accessible the practice of yoga
+
 ## User stories
+    The end user of this project is mainly the female population as the usual majority of attendance on yoga classes is women. Also, we have to bear in mind the prenatal and baby yoga classes are going to bring mums to be or mums to the classes, so it is expected that the scope of women attending the studio will be in the range of 20 to 50 years old.
 ## Features
 
 * This website is responsive in all devices sizes
@@ -22,11 +31,12 @@
 
 The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the desing and planning porcess of this project.
 
-* [Homepage Wireframe](https://github.com/Gloria-21/yoga-project/blob/master/Yoga-project%20-%20desktop.mhtml)
 
-* [Mobile Wireframe](https://github.com/Gloria-21/yoga-project/blob/master/Yoga-project%20-mobile.mhtml)
+Original Wireframe
 
-* Contact us form Wireframe /*--needs links*/
+* [Landing page Mobile Wireframe](https://share.balsamiq.com/g/u5ix7GDWbSYkA11w6SGrx5.png)
+
+* [Landing page Wireframe](https://share.balsamiq.com/g/er1s3g3voeHPLhMuVWUM4h.png)
 
 ## Tecnologies Used 
 
@@ -72,5 +82,5 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 * When I added the cards for the shcedules and the online courses to my features they shown one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side by side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encounter some issues as the cards weren't being responsive anymore and the footer out of place as well. I targeted the margin left to align the site and make it responsive, after that it worked correctly.
 
-* The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added <div style="overflow-x:auto;"> as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
+* The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
     
