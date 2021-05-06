@@ -19,16 +19,16 @@ The end user wants information about the services that Yoga Project has to offer
 * Have a way of communicating with Yoga project in case there is any question
 ## Features
 
-* Landing page:
+* **Landing page:**
 It has a calming and warm welcome feeling with a jumbotron and cards as visual references that catch the attention
 The cards, navbar and Contact Us button on the footer helps to navigate to other pages very easily
-* Schedule page:
+* **Schedule page:**
 It is divided into two sections, the teachers bio and the schedule table. The use of alternate colors and the pictures of teaches helps to create a contrast amongst both
-* On-demand Classes:
+* **On-demand Classes:**
 It is divided in three sections maked with pictures that show the different classes online offered. They have buttons to purchase them and that activate a modal to sign up
-* Navbar:
-The navbar has links to all the pages to make the navigation smooth
-* Footer:
+* **Navbar:**
+The navbar has links to all the pages to make the navigation smooth. Also on the mobile version it can be found on the top right corner as a burger button that collapses, giving a better UX experience
+* **Footer:**
 Each page has a Contact Us button that links to the Contact us page, also has links to social media
 
 ## Future Features
@@ -39,11 +39,11 @@ Each page has a Contact Us button that links to the Contact us page, also has li
     
 * **Color scheme**
 
-    I have used colorSpace to generate my colour scheme. The Natural Palette was the final choice and that includes #DF7D6D, #FFF6F3, #BB8378, #EDE9D0 as main colours.
+    I have used colorSpace to generate my colour scheme. The Natural Palette was the final choice and that includes #DF7D6D, #FFF6F3, #BB8378, #EDE9D0 as main colours that run all the way through the website giving warmth and continuity to the theme.
 
-* Imagery
+* **Images**
 
-    Video by Vlada Karpovich from Pexels
+    All the images on the webiste have been taken from [Pexels](https://www.pexels.com/)
 ## Wireframe
 
 The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the desing and planning porcess of this project.
@@ -100,4 +100,6 @@ To do so I created the jumbotron class, there was few issues with the image not 
 * When I added the cards for the shcedules and the online courses to my features they shown one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side by side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encounter some issues as the cards weren't being responsive anymore and the footer out of place as well. I targeted the margin left to align the site and make it responsive, after that it worked correctly.
 
 * The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
-    
+
+## Testing
+
