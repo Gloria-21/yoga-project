@@ -7,11 +7,29 @@ Project - User-Centric Frontend Development - Code Institute.
 The purpose of this project is to create a yoga studio in Cambridgeshire that offers Hatta, Vinyasa yoga, and meditation. Providing that one of the teachers is a midwife they also offer prenatal and baby yoga. The studio impart possibilities for both face to face and online courses classes, making this way more accessible the practice of yoga
 
 ## User stories
-The end user of this project is mainly the female population as the usual majority of attendance on yoga classes is women. Also, we have to bear in mind the prenatal and baby yoga classes are going to bring mums to be or mums to the classes, so it is expected that the scope of women attending the studio will be in the range of 20 to 50 years old.
+The end user of this project is mainly the female population as the usual majority of attendance on yoga classes is women. Also, we have to bear in mind the prenatal and baby yoga classes are going to bring mums to be and mums to the classes, so it is expected that the scope of women attending the studio will be in the range of 20 to 50 years old.
+
+The end user wants information about the services that Yoga Project has to offer 
+
+* The user wants to know a what time the classes are
+* Which type of yoga can she enjoys
+* Which kidn of education the teachers have
+* How expensive the services are going to be
+* Have more freedom with the on-demand classes
+* Have a way of communicating with Yoga project in case there is any question
 ## Features
 
-* This website is responsive in all devices sizes
-* Have intectave elements such as forms and links
+* Landing page:
+It has a calming and warm welcome feeling with a jumbotron and cards as visual references that catch the attention
+The cards, navbar and Contact Us button on the footer helps to navigate to other pages very easily
+* Schedule page:
+It is divided into two sections, the teachers bio and the schedule table. The use of alternate colors and the pictures of teaches helps to create a contrast amongst both
+* On-demand Classes:
+It is divided in three sections maked with pictures that show the different classes online offered. They have buttons to purchase them and that activate a modal to sign up
+* Navbar:
+The navbar has links to all the pages to make the navigation smooth
+* Footer:
+Each page has a Contact Us button that links to the Contact us page, also has links to social media
 
 ## Future Features
 ## Desing
