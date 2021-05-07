@@ -30,7 +30,7 @@ body {
     font-family: Viga, serif;
     text-transform: uppercase;
     letter-spacing: 8px;
-    font-weight: 650;
+    font-weight: 600;
     color: #FFF6F3;
     background-color: #DF7D6D;
 }
@@ -63,7 +63,9 @@ body {
     background-size: cover;
     
     display: flex;
-    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
     justify-content: center;
 
     position: relative;
