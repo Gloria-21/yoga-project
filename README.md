@@ -32,7 +32,7 @@ The navbar has links to all the pages to make the navigation smooth. Also on the
 Each page has a Contact Us button that links to the Contact us page, also has links to social media
 
 ## Future Features
-## Desing
+## Design
 * **Typography**
 
     I used google fonts for my typography. I have chosen fonts Viga for the headers and Sarabun for the rest ot the page
@@ -46,7 +46,7 @@ Each page has a Contact Us button that links to the Contact us page, also has li
     All the images on the webiste have been taken from [Pexels](https://www.pexels.com/)
 ## Wireframe
 
-The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the desing and planning porcess of this project.
+The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the design and planning porcess of this project.
 
 
 Original Wireframe
@@ -78,7 +78,7 @@ Original Wireframe
 
  4. [Balsamiq](https://balsamiq.com/)
 
-    I used Balsamiq to create the wireframing during the desing process
+    I used Balsamiq to create the wireframing during the design process
 
 5. [Git](https://git-scm.com/)
 
@@ -94,8 +94,8 @@ This is my firt ever proyect coding on my own. So far I am finding it challengin
 
 * My Navbar has been problematic from the beggining as I used navbar-light and bg-light and when I tried to apply my styling to the CSS sheet I was not able ot override boostrap styling. Looking for an answer I found !important, which worked perfecty until I was informed that is considered bad practice. I decided to delete the two boostrap classes that there were being problematic and once that was done all the styling on CSS started to work. That have shown me the importance of understanding the different classes that boostrap has on offer.
 
-* I have problems also with the sizes of the images. First of all I made a mistake on my HTML structure as I missed the first part of the link on my src class. Also looking on CCS-tricks I found a way to use as a background, that it wasn't my intial thought. That structure didn't work on my desing as it was too clutered but made me think of a smaller image and then write the welcome message on it.
-To do so I created the jumbotron class, there was few issues with the image not matching the size of the jumbotron that were sorted after consulting [Stackoverflow webpage](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron). I realised that container instead container-fluid would suit the project better for the result I had planned. Also I had to do some adjustment on the margins to get the desing to be responsive
+* I have problems also with the sizes of the images. First of all I made a mistake on my HTML structure as I missed the first part of the link on my src class. Also looking on CCS-tricks I found a way to use as a background, that it wasn't my intial thought. That structure didn't work on my design as it was too clutered but made me think of a smaller image and then write the welcome message on it.
+To do so I created the jumbotron class, there was few issues with the image not matching the size of the jumbotron that were sorted after consulting [Stackoverflow webpage](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron). I realised that container instead container-fluid would suit the project better for the result I had planned. Also I had to do some adjustment on the margins to get the design to be responsive
 
 * When I added the cards for the shcedules and the online courses to my features they shown one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side by side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encounter some issues as the cards weren't being responsive anymore and the footer out of place as well. I targeted the margin left to align the site and make it responsive, after that it worked correctly.
 
@@ -103,3 +103,4 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 ## Testing
 
+## Validator testing
