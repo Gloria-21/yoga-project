@@ -101,6 +101,7 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 * The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
 
+* The modal header has been problematic when I have tried the validator as my initial code with a <p> being a child of a <h4> wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using <br> and <small> instead.
 ## Testing
 
 ## Validator testing
