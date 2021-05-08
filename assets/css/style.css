@@ -65,7 +65,7 @@ body {
     
     display: flex;
     align-items: center;
-    width: auto;
+    max-width: 850px;
     justify-content: center;
 
     position: relative;
