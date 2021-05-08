@@ -130,7 +130,6 @@ footer {
 .card {
     align-items: center;
     margin-bottom: 15px;
-   
 }
 
 
@@ -196,4 +195,31 @@ img {
 
 .form-control {
     border: 0;
+}
+
+/* success page */
+
+.jumbotron-success {
+    background-position: center center;
+    align-items: center;
+    margin-top: 150px;
+    height: 90vh;
+    width: 100%;
+    color: #DF7D6D;
+}
+.background-success {
+    height: 90vh;
+
+    background: url('../images/success.jpg') no-repeat bottom center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display:block;
+    align-items: center;
+    max-width: none;
+    justify-content: center;
+
+    position: relative;
 }
