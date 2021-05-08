@@ -32,6 +32,8 @@ The navbar has links to all the pages to make the navigation smooth. Also on the
 Each page has a Contact Us button that links to the Contact us page, also has links to social media
 
 ## Future Features
+
+In the future I would like to implement the payment system on the website and add some users reviews
 ## Design
 * **Typography**
 
@@ -52,13 +54,17 @@ The wireframes that can be found below have been created using Balsamiq suring t
 Original Wireframe
 
 * [Landing page Mobile Wireframe](https://share.balsamiq.com/g/u5ix7GDWbSYkA11w6SGrx5.png)
+* [Schedule page Mobile Wireframe](https://share.balsamiq.com/g/6hUk3HXucuYDQDASriEy9M.png)
+* [On-demand courses page Mobile Wireframe](https://share.balsamiq.com/g/qjkRjP8esH6tNEP5gcLped.png)
 
-* [Landing page Wireframe](https://share.balsamiq.com/g/er1s3g3voeHPLhMuVWUM4h.png)
+* [Landing page Desktop Wireframe](https://share.balsamiq.com/g/er1s3g3voeHPLhMuVWUM4h.png)
+* [Schedule page Desktop Wireframe](https://share.balsamiq.com/g/hD3Gddt7uv5dPUXULouA3j.png)
+* [On-demand courses page Desktop Wireframe](https://share.balsamiq.com/g/qgaUxBLqi71B4inU84zbDo.png)
 
 ## Tecnologies Used 
 
 ### Languages used
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) 
 
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 

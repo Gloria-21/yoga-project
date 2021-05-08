@@ -65,7 +65,7 @@ body {
     
     display: flex;
     align-items: center;
-    max-width: 850px;
+    max-width: none;
     justify-content: center;
 
     position: relative;
@@ -128,8 +128,9 @@ footer {
 
 /* Cards */
 .card {
-    align-content: center;
+    align-items: center;
     margin-bottom: 15px;
+   
 }
 
 .btn-card {
