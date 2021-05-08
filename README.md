@@ -51,8 +51,6 @@ In the future I would like to implement the payment system on the website and ad
 The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the design and planning process of this project.
 
 
-Original Wireframe
-
 * [Landing page Mobile Wireframe](https://share.balsamiq.com/g/u5ix7GDWbSYkA11w6SGrx5.png)
 * [Schedule page Mobile Wireframe](https://share.balsamiq.com/g/6hUk3HXucuYDQDASriEy9M.png)
 * [On-demand courses page Mobile Wireframe](https://share.balsamiq.com/g/qjkRjP8esH6tNEP5gcLped.png)
