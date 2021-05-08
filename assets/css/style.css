@@ -8,9 +8,9 @@
 }
 
 body {
-    background-color: #FFF6F3;
+    background-color:#FFF6F3;
     font-family: Sarabun, serif;
-    color: #BB8378;
+    color:#BB8378;
 }
 
 /* Navbar*/
@@ -42,18 +42,19 @@ body {
 .navbar {
     border: 0;
     width: 100%;
-    background-color: #DF7D6D;
+    background-color: #DF7D6D ;
     color: #FFF6F3;
 }
 
-.navbar .navbar-toggler {
+.navbar-toggler {
     border: 0;
+    color: #FFF6F3;
 }
 
 
 /* jumbotron */
 
-.background-container {
+.background-container{
     height: 40vh;
 
     background: url('../images/hero.jpg') no-repeat bottom center fixed;
@@ -61,10 +62,9 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
+    
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    align-items: center;
     width: auto;
     justify-content: center;
 
@@ -79,7 +79,6 @@ body {
 .jumbotron-header {
     color: #EDE9D0;
 }
-
 /* Features */
 
 .features-container {
@@ -111,7 +110,7 @@ footer {
     border-radius: 50%;
     font-size: 30px;
     line-height: 30px;
-    align-items: right;
+    align-items: flex-end;
     color: #FFF6F3;
     background: #DF7D6D;
     transition: all 0.35s ease-in-out;
@@ -128,11 +127,15 @@ footer {
 /* Footer */
 
 /* Cards */
+.card {
+    align-content: center;
+    margin-bottom: 15px;
+}
 
 .btn-card {
     border: 5px;
     width: 75%;
-    background-color: #DF7D6D;
+    background-color: #DF7D6D ;
     color: #EDE9D0;
 }
 
@@ -140,7 +143,6 @@ footer {
     color: #FFF6F3
 }
 
-/* cards*/
 
 /* list*/
 
