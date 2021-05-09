@@ -22,18 +22,28 @@ The end user wants information about the services that Yoga Project has to offer
 * **Landing page:**
 It has a calming and warm welcome feeling with a jumbotron and cards as visual references that catch the attention
 The cards, navbar and Contact Us button on the footer helps to navigate to other pages very easily
+
 * **Schedule page:**
 It is divided into two sections, the teachers bio and the schedule table. The use of alternate colors and the pictures of teaches helps to create a contrast amongst both
+
 * **On-demand Classes:**
-It is divided in three sections maked with pictures that show the different classes online offered. They have buttons to purchase them and that activate a modal to sign up
+It is divided in three sections maked with pictures that show the different classes online offered. They have buttons to purchase them and that activate a modal to sign up. When that button is clicked it leads to the Success page
+
+* **Contact us:**
+This page wasn't planned on the original wireframe, it was created as was going along with the project and it become clear the it was necessary to have it. It follows the same structure of Navbar and footer as well as the same chromatic scheme, but present a form as main elemet of the body as well as a button that lead to the Sucess page
+
+* **Success page**
+This page wasn't included on the original plan either. It has the general stucture of Navbar and footer being the main body a jumbotrom with a background image and a message and a button to go to the Home page
+
 * **Navbar:**
-The navbar has links to all the pages to make the navigation smooth. Also on the mobile version it can be found on the top right corner as a burger button that collapses, giving a better UX experience
+The navbar has links to all the pages and all pages has it, so in this way the navigation is smooth. Also on the mobile version it can be found on the top right corner as a burger button that collapses, giving a better UX experience
+
 * **Footer:**
-Each page has a Contact Us button that links to the Contact us page, also has links to social media
+Each page has on the footer a Contact Us button that links to the Contact us page, also has links to social media
 
 ## Future Features
 
-In the future I would like to implement the payment system on the website and add some users reviews
+In the future I would like to add another path for clients that already have an account and would like to sign up. Also I would like to implement the payment system on the website and add some users reviews.
 ## Design
 * **Typography**
 
@@ -59,18 +69,22 @@ The wireframes that can be found below have been created using Balsamiq suring t
 * [Schedule page Desktop Wireframe](https://share.balsamiq.com/g/hD3Gddt7uv5dPUXULouA3j.png)
 * [On-demand courses page Desktop Wireframe](https://share.balsamiq.com/g/qgaUxBLqi71B4inU84zbDo.png)
 
-## Tecnologies Used 
+## Technologies Used 
 
+ As it follows below
 ### Languages used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) 
 
+ I have used HTML5 to design the structure  adn the content of the webiste 
+
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
+ I have used CSS3 to style the apearence of the website
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootsrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
-    I have used Boostrap to help with responsiveness of the webpage as well as the styling
+    I have used Boostrap to help with responsiveness of the website as well as the styling
 
 2. [Google Font](https://fonts.google.com/)
 
@@ -108,4 +122,17 @@ To do so I created the jumbotron class, there was few issues with the image not 
 * The modal header has been problematic when I have tried the validator as my initial code with a <p> being a child of a <h4> wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using <br> and <small> instead.
 ## Testing
 
-## Validator testing
+### Validator testing
+
+The webistes used to check the validity of the codes are [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
+
+### Test case
+
+The potential clients fo the webiste can follow two different paths depending on their necesities.
+If they chose attend to a face to face class they will follow 
+
+Home > Schedule (card or navbar) > Contact us > Success 
+
+If they are looking for an online course to practice on their own time they will follow
+
+Home > On-demand (card or navbar) > Purchase > Create an account > Success
