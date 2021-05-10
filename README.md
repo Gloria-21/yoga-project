@@ -73,13 +73,9 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
  As it follows below
 ### Languages used
-* [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) I have used HTML5 to design the structure  adn the content of the webiste 
 
- I have used HTML5 to design the structure  adn the content of the webiste 
-
-* [CSS3](https://en.wikipedia.org/wiki/CSS)
-
- I have used CSS3 to style the apearence of the website
+* [CSS3](https://en.wikipedia.org/wiki/CSS) I have used CSS3 to style the apearence of the website
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootsrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
@@ -123,12 +119,17 @@ To do so I created the jumbotron class, there was few issues with the image not 
 ## Testing
 
 ### Validator testing
+To check the validity of the codes I have used [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 
-The webistes used to check the validity of the codes are [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
-
-All the pages passed the validator with 0 errors ![Alt text](/assets/doc/validator/index-html-validator.png) ![Alt text](/assets/doc/validator/schedule-html-validator.png) ![Alt text](/assets/doc/validator/online-courses-html-validator.png) ![Alt text](/assets/doc/validator/contact-us-html-validator.png) 
+All the pages of the project passed the validator with 0 errors ![Alt text](/assets/doc/validator/index-html-validator.png) ![Alt text](/assets/doc/validator/schedule-html-validator.png) ![Alt text](/assets/doc/validator/online-courses-html-validator.png) ![Alt text](/assets/doc/validator/contact-us-html-validator.png) 
 
 Also the CSS page passed the validation with 0 erros ![Alt text](/assets/doc/validator/css-validator.png) 
+
+### Performance
+
+To check the website performance level as well as the speed I used [Google lighthouse](https://developers.google.com/web/tools/lighthouse)
+[Lighthouse](/assets/doc/validator/lighthouse.png
+)
 
 ### Test case
 
