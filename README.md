@@ -125,7 +125,10 @@ To do so I created the jumbotron class, there was few issues with the image not 
 ### Validator testing
 
 The webistes used to check the validity of the codes are [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
-All the pages passed the validator with 0 errors [Home](![Alt text](/assets/doc/validator/index-html-validator.png))
+
+All the pages passed the validator with 0 errors ![Alt text](/assets/doc/validator/index-html-validator.png) ![Alt text](/assets/doc/validator/schedule-html-validator.png) ![Alt text](/assets/doc/validator/online-courses-html-validator.png) ![Alt text](/assets/doc/validator/contact-us-html-validator.png) 
+
+Also the CSS page passed the validation with 0 erros ![Alt text](/assets/doc/validator/css-validator.png) 
 
 ### Test case
 
