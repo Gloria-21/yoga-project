@@ -128,7 +128,7 @@ Also the CSS page passed the validation with 0 erros ![Alt text](/assets/doc/val
 ### Performance
 
 To check the website performance level as well as the speed I used [Google lighthouse](https://developers.google.com/web/tools/lighthouse)
-[Lighthouse](/assets/doc/validator/lighthouse.png
+![Atl text](/assets/doc/validator/lighthouse.png)
 )
 
 ### Test case
