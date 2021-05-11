@@ -102,22 +102,13 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
     I used GitHub to store the projects code after being pushed from Gitpod
 
+7. [Am I responsive](http://ami.responsivedesign.is/)
+
+    I used Am I responsive to create the mockup at the beggining of the README.md document
+
 
 
 ## Testing
-### Test case
-
-The potential clients fo the webiste can follow two different paths depending on their necesities.
-If they chose attend to a face to face class they will follow 
-
-Home > Schedule (card or navbar) > Contact us > Success 
-
-If they are looking for an online course to practice on their own time they will follow
-
-Home > On-demand (card or navbar) > Purchase > Create an account > Success
-
-
-
 ### Validator testing
 To check the validity of the codes I have used [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 
@@ -130,6 +121,18 @@ Also the CSS page passed the validation with 0 erros ![Alt text](/assets/doc/val
 To check the website performance level as well as the speed I used [Google lighthouse](https://developers.google.com/web/tools/lighthouse)
 ![Atl text](/assets/doc/validator/lighthouse.png)
 )
+
+### Test case
+
+The potential clients fo the webiste can follow two different paths depending on their necesities.
+If they chose attend to a face to face class they will follow 
+
+Home > Schedule (card or navbar) > Contact us > Success 
+
+If they are looking for an online course to practice on their own time they will follow
+
+Home > On-demand (card or navbar) > Purchase > Create an account > Success
+
 
 ### Bugs
 
@@ -144,7 +147,7 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 * The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
 
-* The modal header has been problematic when I have tried the validator as my initial code with a <p> being a child of a <h4> wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using <br> and <small> instead.
+* The modal header has been problematic when I have tried the validator as my initial code with a 'p' element being a child of a 'h4' wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using 'br' and 'small' instead.
 
 ## Deployment
 ### Via gitpod
