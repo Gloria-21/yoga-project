@@ -202,11 +202,12 @@ img {
 .jumbotron-success {
     background-position: center center;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 60px;
     height: 90vh;
     width: 100%;
     color: #DF7D6D;
 }
+
 
 .background-success {
     height: 90vh;
@@ -221,6 +222,7 @@ img {
     align-items: center;
     max-width: none;
     justify-content: center;
+    text-align:justify;
 
     position: relative;
 }
