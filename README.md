@@ -122,7 +122,7 @@ To check the website performance level as well as the speed I used [Google light
 ![Atl text](/assets/doc/validator/lighthouse.png)
 )
 
-### Test case
+### Test user stories
 
 * As a first time visitor and potential client to the webiste I want to easily understand the services offered and if they suit my necesities.
 Upon entering the website, the user will be welcomed warm, calm and easy navigation. ![Alt text](/assets/doc/screenshots/index-img.png)
