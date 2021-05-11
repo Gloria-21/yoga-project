@@ -1,6 +1,6 @@
-# Yoga Project
+# Yoga Project (Milestone 1 User-Centric Frontend Development - Code Institute)
 
-Project - User-Centric Frontend Development - Code Institute.
+![Alt text](/assets/doc/validator/responsive-mockup.png)
 
 ## Purpose of the project
 
@@ -102,21 +102,21 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
     I used GitHub to store the projects code after being pushed from Gitpod
 
-### Bugs
 
-This is my first ever project coding on my own. So far I am finding it challenging as I am trying to put in use what I have learnt on the course so far as well as keep discovering new funtionalities on Boostrap and CSS.
 
-* My Navbar has been problematic from the beginning as I used navbar-light and bg-light and when I tried to apply my styling to the CSS sheet I was not able ot override boostrap styling. Looking for an answer I found !important, which worked perfectly until I was informed that is considered bad practice. I decided to delete the two boostrap classes that there were being problematic and once that was done all the styling on CSS started to work. That have shown me the importance of understanding the different classes that boostrap has on offer.
-
-* I have problems also with the sizes of the images. First of all I made a mistake on my HTML structure as I missed the first part of the link on my src class. Also looking on CCS-tricks I found a way to use as a background, that it wasn't my initial thought. That structure didn't work on my design as it was too cluttered but made me think of a smaller image and then write the welcome message on it.
-To do so I created the jumbotron class, there was few issues with the image not matching the size of the jumbotron that were sorted after consulting [Stackoverflow webpage](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron). I realised that container instead container-fluid would suit the project better for the result I had planned. Also I had to do some adjustment on the margins to get the design to be responsive
-
-* When I added the cards for the schedules and the online courses to my features they shown one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side by side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encounter some issues as the cards weren't being responsive anymore and the footer out of place as well. I targeted the margin left to align the site and make it responsive, after that it worked correctly.
-
-* The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
-
-* The modal header has been problematic when I have tried the validator as my initial code with a <p> being a child of a <h4> wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using <br> and <small> instead.
 ## Testing
+### Test case
+
+The potential clients fo the webiste can follow two different paths depending on their necesities.
+If they chose attend to a face to face class they will follow 
+
+Home > Schedule (card or navbar) > Contact us > Success 
+
+If they are looking for an online course to practice on their own time they will follow
+
+Home > On-demand (card or navbar) > Purchase > Create an account > Success
+
+
 
 ### Validator testing
 To check the validity of the codes I have used [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
@@ -131,16 +131,20 @@ To check the website performance level as well as the speed I used [Google light
 ![Atl text](/assets/doc/validator/lighthouse.png)
 )
 
-### Test case
+### Bugs
 
-The potential clients fo the webiste can follow two different paths depending on their necesities.
-If they chose attend to a face to face class they will follow 
+This is my first ever project coding on my own. So far I am finding it challenging as I am trying to put in use what I have learnt on the course so far as well as keep discovering new funtionalities on Boostrap and CSS.
 
-Home > Schedule (card or navbar) > Contact us > Success 
+* My Navbar has been problematic from the beginning as I used navbar-light and bg-light and when I tried to apply my styling to the CSS sheet I was not able ot override boostrap styling. Looking for an answer I found !important, which worked perfectly until I was informed that is considered bad practice. I decided to delete the two boostrap classes that there were being problematic and once that was done all the styling on CSS started to work. That have shown me the importance of understanding the different classes that boostrap has on offer.
 
-If they are looking for an online course to practice on their own time they will follow
+* I have problems also with the sizes of the images. First of all I made a mistake on my HTML structure as I missed the first part of the link on my src class. Also looking on CCS-tricks I found a way to use as a background, that it wasn't my initial thought. That structure didn't work on my design as it was too cluttered but made me think of a smaller image and then write the welcome message on it.
+To do so I created the jumbotron class, there was few issues with the image not matching the size of the jumbotron that were sorted after consulting [Stackoverflow webpage](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron). I realised that container instead container-fluid would suit the project better for the result I had planned. Also I had to do some adjustment on the margins to get the design to be responsive
 
-Home > On-demand (card or navbar) > Purchase > Create an account > Success
+* When I added the cards for the schedules and the online courses to my features they shown one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side by side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encounter some issues as the cards weren't being responsive anymore and the footer out of place as well. I targeted the margin left to align the site and make it responsive, after that it worked correctly.
+
+* The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
+
+* The modal header has been problematic when I have tried the validator as my initial code with a <p> being a child of a <h4> wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using <br> and <small> instead.
 
 ## Deployment
 ### Via gitpod
