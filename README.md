@@ -124,15 +124,36 @@ To check the website performance level as well as the speed I used [Google light
 
 ### Test case
 
-The potential clients fo the webiste can follow two different paths depending on their necesities.
-If they chose attend to a face to face class they will follow 
+* As a first time visitor and potential client to the webiste I want to easily understand the services offered and if they suit my necesities.
+Upon entering the website, the user will be welcomed warm, calm and easy navigation. ![Alt text](/assets/doc/screenshots/index-img.png)
+The user will find the services offered signed-posted on the cards as well as the navbar. 
 
-Home > Schedule (card or navbar) > Contact us > Success 
+* The user wants to know a what time the classes are
+The user will click either the card inviting to check the schedule or on the tab schedule on the navbar. Once on the schedule page the user will need to scroll down to find the schedule table 
+![Alt text](/assets/doc/screenshots/schedule-img.png)
 
-If they are looking for an online course to practice on their own time they will follow
+* Which type of yoga can she enjoys
+The user has to follow the card inviting meeting the team and schedule, once there, in the schedule page the user can check the types of yoga on offer
 
-Home > On-demand (card or navbar) > Purchase > Create an account > Success
+* Which kind of education the teachers have
+The user has to follow the card inviting meeting the team. Once on the schedule page the firts section is dedicated to the teachers and their education
 
+* How expensive the services are going to be
+The user has to follow either the schedule card/navbar to Schedule page and scrolling down, passing the table with the shedule itself, the user will find a seccion with the prices.
+Alternatively, if the user rather have online classes has to follow the card to On-demand and once on the On-demand page will be able to see prices for the different courses. Also the user will be able to purchase the the course if this is the prefered option. 
+![Alt text](/assets/doc/screenshots/ondemand-img.png)
+
+* Have more freedom with the on-demand classes
+As we have explained on the previous point the user will go to the On-demand page and will be able to chose and purchase from the different options shown in there. The user will click the purchase button and a modal will pop up offering to create an account with Yoga project. 
+![Alt text](/assets/doc/screenshots/modal-img.png)
+Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has being created succesfully. Also the user will find a button to go to the home page
+![Alt text](/assets/doc/screenshots/success-img.png)
+
+* Have a way of communicating with Yoga project in case there is any question
+The user will find two different ways to go to the Contact us page. One is situated on the navbar with the other pages and also on the footer of each page the user will find a Contact us button. Once on the Contact us page the user will find a form with a text area to write a comment.
+![Alt text](/assets/doc/screenshots/contact-img.png)
+At the very end of the form the user will find a Submit button that will lead to the Success page
+Also on the footer of each page the user will find links to the Yoga project social media 
 
 ### Bugs
 
