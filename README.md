@@ -206,9 +206,18 @@ Microsoft Edge:
 ## Deployment
 
 This website has been developed on Gitpod, using Github to host the repository
+
+### Via Gitpod 
+
+These are the step followed to deploy via Gitpod:
+1. Log in to the Gitpod account 
+2. Chose the MS1 repository
+3. Add your code 
+4. Type "python3 -m http.server" on the terminal
+5. A new screen will pop up with the results of the code on the browser
 ### GitHub pages
 
-To deploy this website using GitHub the following steps were followed:
+These are the steps followed to deploy this website using GitHub:
 
 1. Log in to your  GitHub account
 2. Select MS1 on my repositories
