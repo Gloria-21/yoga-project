@@ -114,6 +114,7 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
 I have done the testing for my website using the dev tools on google chrome. I have been testing regulary checking that the results were the expected on different sizes, from mobile devices to desktop and tablet, making sure the website was responsive in all of them.
 I used this tool as a main source to implement my code, trying the functionality and styling effects there first and adding them to my code afterwards.
+
 At later stage, when the site was deployed, the website was tested by family and friends who looked on different devices and gave feedback on responsitivity and user experience.
 
 
@@ -175,7 +176,7 @@ Also on the footer of each page the user will find links to the Yoga project soc
 
 ### Fixed Bugs
 
-This is my first ever project coding on my own. So far I am finding it challenging as I am trying to put in use what I have learnt on the course so far as well as keep discovering new funtionalities on Boostrap and CSS.
+This is my first ever project coding on my own. So far I am finding it challenging as I am trying to put in use what I have learnt on the course so far as well as keep discovering new functionalities on Boostrap and CSS.
 
 * My Navbar has been problematic from the beginning as I used navbar-light and bg-light and when I tried to apply my styling to the CSS sheet I was not able ot override boostrap styling. Looking for an answer I found !important, which worked perfectly until I was informed that is considered bad practice. I decided to delete the two boostrap classes that there were being problematic and once that was done all the styling on CSS started to work. That have shown me the importance of understanding the different classes that boostrap has on offer.
 
@@ -192,6 +193,8 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 
 Google Chrome: website worked as expected
+Firefox:
+Microsoft Edge:
 
 
 
