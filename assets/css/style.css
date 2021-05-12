@@ -25,7 +25,6 @@ body {
     color: #FFF6F3;
 }
 
-
 .navbar-brand {
     font-family: Viga, serif;
     text-transform: uppercase;
@@ -88,7 +87,7 @@ body {
 }
 
 /* Footer */
-/* Inpiration for the design of this footer taken from the Miniproject with boostrap */
+
 footer {
     background-color: #DF7D6D;
     color: #FFF6F3;
@@ -125,8 +124,6 @@ footer {
     margin-right: 20px;
 }
 
-/* Footer */
-
 /* Cards */
 .card {
     align-items: center;
@@ -144,7 +141,6 @@ footer {
 .btn-card:hover {
     color: #FFF6F3
 }
-
 
 /* list*/
 
@@ -206,9 +202,8 @@ img {
     margin-top: 60px;
     height: 90vh;
     width: 100%;
-    color:#DF7D6D;
+    color: #DF7D6D;
 }
-
 
 .background-success {
     height: 90vh;
@@ -223,7 +218,7 @@ img {
     align-items: center;
     max-width: none;
     justify-content: center;
-    text-align:justify;
+    text-align: justify;
 
     position: relative;
 }

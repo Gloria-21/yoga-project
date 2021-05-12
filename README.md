@@ -198,8 +198,8 @@ To do so I created the jumbotron class, there was few issues with the image not 
 ### Suported screens and browsers
 
 Google Chrome: website worked as expected
-Firefox: 
-Microsoft Edge:
+Firefox: website worked as expected
+Microsoft Edge: website worked as expected
 
 ## Deployment
 
