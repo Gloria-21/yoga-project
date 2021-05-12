@@ -137,47 +137,47 @@ To check the website performance level as well as the speed I used [Google light
 _These stories have links to screenshots to the desktop version and all different sizes of mobiles on the dev tool_
 
 1. As a first time visitor and potential client to the webiste I want to easily understand the services offered and if they suit my necesities.
-..* Upon entering the website, the user will be welcomed warm, calm and easy navigation. 
+  * Upon entering the website, the user will be welcomed warm, calm and easy navigation. 
 
 [Home-Desktop](/doc/screenshots/index-img.png) [Home-mobile](/doc/screenshots/index-mobile.png)
 
-..* The user will find the services offered signed-posted on the cards as well as the navbar. 
+  * The user will find the services offered signed-posted on the cards as well as the navbar. 
 
 2. The user wants to know a what time the classes are
-..* The user will click either the card inviting to check the schedule or on the tab schedule on the navbar. 
-..* Once on the schedule page the user will need to scroll down to find the schedule table 
+  * The user will click either the card inviting to check the schedule or on the tab schedule on the navbar. 
+  * Once on the schedule page the user will need to scroll down to find the schedule table 
 
 [Schedule-Desktop](/doc/screenshots/schedule-img.png) [Schedule-mobile](/doc/screenshots/schedule-mobile.png)
 
 3. Which type of yoga can she enjoys
-..* The user has to follow the card inviting meeting the team and schedule, once there, in the schedule page the user can check the types of yoga on offer.
+  * The user has to follow the card inviting meeting the team and schedule, once there, in the schedule page the user can check the types of yoga on offer.
 
 4. Which kind of education the teachers have
-..* The user has to follow the card inviting meeting the team. Once on the schedule page the firts section is dedicated to the teachers and their education.
+  * The user has to follow the card inviting meeting the team. Once on the schedule page the firts section is dedicated to the teachers and their education.
 
 5. How expensive the services are going to be
-..* The user has to follow either the schedule card/navbar to Schedule page and scrolling down, passing the table with the shedule itself, the user will find a seccion with the prices.
-..* Alternatively, if the user rather have online classes has to follow the card to On-demand and once on the On-demand page will be able to see prices for the different courses. Also the user will be able to purchase the the course if this is the prefered option. 
+  * The user has to follow either the schedule card/navbar to Schedule page and scrolling down, passing the table with the shedule itself, the user will find a seccion with the prices.
+  * Alternatively, if the user rather have online classes has to follow the card to On-demand and once on the On-demand page will be able to see prices for the different courses. Also the user will be able to purchase the the course if this is the prefered option. 
 [On-demand-Desktop](/doc/screenshots/ondemand-img.png) [On-demand-mobile](/doc/screenshots/ondemand-mobile.png)
 
 6. Have more freedom with the on-demand classes
-..* As we have explained on the previous point the user will go to the On-demand page and will be able to chose and purchase from the different options shown in there. ....* The user will click the purchase button and a modal will pop up offering to create an account with Yoga project. 
+  * As we have explained on the previous point the user will go to the On-demand page and will be able to chose and purchase from the different options shown in there. ....* The user will click the purchase button and a modal will pop up offering to create an account with Yoga project. 
 
 [Modal-Desktop](/doc/screenshots/modal-img.png) [Modal-mobile](/doc/screenshots/Modal-mobile.png)
 
-..* Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has being created succesfully. 
-..* Also the user will find a button to go to the home page.
+  * Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has being created succesfully. 
+  * Also the user will find a button to go to the home page.
 
 [Success-Desktop](/doc/screenshots/success-img.png) [Success-mobile](/doc/screenshots/Success-mobile.png)
 
 7. Have a way of communicating with Yoga project in case there is any question
-..* The user will find two different ways to go to the Contact us page. One is situated on the navbar with the other pages and also on the footer of each page the user will find a Contact us button. 
-..* Once on the Contact us page the user will find a form with a text area to write a comment.
+  * The user will find two different ways to go to the Contact us page. One is situated on the navbar with the other pages and also on the footer of each page the user will find a Contact us button. 
+  * Once on the Contact us page the user will find a form with a text area to write a comment.
 
 [Contact-Desktop](/doc/screenshots/contact-img.png)
 
-..* At the very end of the form the user will find a Submit button that will lead to the Success page
-..* Also on the footer of each page the user will find links to the Yoga project social media.
+  * At the very end of the form the user will find a Submit button that will lead to the Success page
+  * Also on the footer of each page the user will find links to the Yoga project social media.
 
 ### Fixed Bugs
 
