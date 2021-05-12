@@ -171,6 +171,19 @@ To do so I created the jumbotron class, there was few issues with the image not 
 * The modal header has been problematic when I have tried the validator as my initial code with a 'p' element being a child of a 'h4' wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using 'br' and 'small' instead.
 
 ## Deployment
-### Via gitpod
 
-To deploy the project via gitpod
+This website has been developed on Gitpod, using Github to host the repository
+### GitHub pages
+
+To deploy this website using GitHub the following steps were followed:
+
+1. Log in to your  GitHub account
+2. Select MS1 on my repositories
+3. Go to settings on the repository
+4. Scroll down to the GitHub pages area
+5. Select the Master Branch from the Source dropdown menu
+6. Confirm my selection 
+
+After this the website was live on GitHub pages
+
+
