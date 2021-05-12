@@ -1,6 +1,6 @@
 # Yoga Project (Milestone 1 User-Centric Frontend Development - Code Institute)
 
-![Alt text](/assets/doc/validator/responsive-mockup.png)
+![Alt text](/doc/validator/responsive-mockup.png)
 
 [Deployed website](https://gloria-21.github.io/yoga-project/index.html)
 
@@ -122,14 +122,14 @@ At later stage, when the site was deployed, the website was tested by family and
 ### Validator testing
 To check the validity of the codes I have used [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 
-All the pages of the project passed the validator with 0 errors [Home](/assets/doc/validator/index-html-validator.png) [Schedule](/assets/doc/validator/schedule-html-validator.png) [On-demand](/assets/doc/validator/online-courses-html-validator.png) [Contact-us](/assets/doc/validator/contact-us-html-validator.png) 
+All the pages of the project passed the validator with 0 errors [Home](/doc/validator/index-html-validator.png) [Schedule](/doc/validator/schedule-html-validator.png) [On-demand](/doc/validator/online-courses-html-validator.png) [Contact-us](/doc/validator/contact-us-html-validator.png) 
 
 Also the CSS page passed the validation with 0 erros [CSS](/assets/doc/validator/css-validator.png) 
 
 ### Performance
 
 To check the website performance level as well as the speed I used [Google lighthouse](https://developers.google.com/web/tools/lighthouse)
-![Atl text](/assets/doc/validator/lighthouse.png)
+![Atl text](/doc/validator/lighthouse.png)
 )
 
 ### Test user stories
@@ -137,14 +137,14 @@ To check the website performance level as well as the speed I used [Google light
 * As a first time visitor and potential client to the webiste I want to easily understand the services offered and if they suit my necesities.
 Upon entering the website, the user will be welcomed warm, calm and easy navigation. 
 
-[Home-Desktop](/assets/doc/screenshots/index-img.png)
+[Home-Desktop](/doc/screenshots/index-img.png)
 
 The user will find the services offered signed-posted on the cards as well as the navbar. 
 
 * The user wants to know a what time the classes are
 The user will click either the card inviting to check the schedule or on the tab schedule on the navbar. Once on the schedule page the user will need to scroll down to find the schedule table 
 
-[Schedule-Desktop](/assets/doc/screenshots/schedule-img.png)
+[Schedule-Desktop](/doc/screenshots/schedule-img.png)
 
 * Which type of yoga can she enjoys
 The user has to follow the card inviting meeting the team and schedule, once there, in the schedule page the user can check the types of yoga on offer.
@@ -155,21 +155,21 @@ The user has to follow the card inviting meeting the team. Once on the schedule 
 * How expensive the services are going to be
 The user has to follow either the schedule card/navbar to Schedule page and scrolling down, passing the table with the shedule itself, the user will find a seccion with the prices.
 Alternatively, if the user rather have online classes has to follow the card to On-demand and once on the On-demand page will be able to see prices for the different courses. Also the user will be able to purchase the the course if this is the prefered option. 
-[On-demand-Desktop](/assets/doc/screenshots/ondemand-img.png)
+[On-demand-Desktop](/doc/screenshots/ondemand-img.png)
 
 * Have more freedom with the on-demand classes
 As we have explained on the previous point the user will go to the On-demand page and will be able to chose and purchase from the different options shown in there. The user will click the purchase button and a modal will pop up offering to create an account with Yoga project. 
 
-[Modal-Desktop](/assets/doc/screenshots/modal-img.png)
+[Modal-Desktop](/doc/screenshots/modal-img.png)
 
 Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has being created succesfully. Also the user will find a button to go to the home page.
 
-[Success-Desktop](/assets/doc/screenshots/success-img.png)
+[Success-Desktop](/doc/screenshots/success-img.png)
 
 * Have a way of communicating with Yoga project in case there is any question
 The user will find two different ways to go to the Contact us page. One is situated on the navbar with the other pages and also on the footer of each page the user will find a Contact us button. Once on the Contact us page the user will find a form with a text area to write a comment.
 
-[Contact-Desktop](/assets/doc/screenshots/contact-img.png)
+[Contact-Desktop](/doc/screenshots/contact-img.png)
 
 At the very end of the form the user will find a Submit button that will lead to the Success page
 Also on the footer of each page the user will find links to the Yoga project social media.
@@ -193,7 +193,7 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 
 Google Chrome: website worked as expected
-Firefox:
+Firefox: 
 Microsoft Edge:
 
 
