@@ -2,6 +2,8 @@
 
 ![Alt text](/assets/doc/validator/responsive-mockup.png)
 
+[Deployed website](https://gloria-21.github.io/yoga-project/index.html)
+
 ## Purpose of the project
 
 The purpose of this project is to create a yoga studio in Cambridgeshire that offers Hatta, Vinyasa yoga, and meditation. Providing that one of the teachers is a midwife they also offer prenatal and baby yoga. The studio impart possibilities for both face to face and online courses classes, making this way more accessible the practice of yoga
