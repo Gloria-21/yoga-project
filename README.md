@@ -114,12 +114,7 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
 I have done the testing for my website using the dev tools on google chrome. I have been testing regulary checking that the results were the expected on different sizes, from mobile devices to desktop and tablet, making sure the website was responsive in all of them.
 
-At later stage, when the site was deployed, I have tested the website on the following devices
-Acer Chromebook 715
-Dell Optiplex 3020
-Samsung Galaxy A71
-Pixel 3a
-
+At later stage, when the site was deployed, the website was tested by family and friends who looked on different devices anda gace feedback on responsitivity and user experience.
 ### Validator testing
 To check the validity of the codes I have used [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 
@@ -181,9 +176,11 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 * The modal header has been problematic when I have tried the validator as my initial code with a 'p' element being a child of a 'h4' wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using 'br' and 'small' instead.
 
-### Suported screens and browers
+### Suported screens and browsers
 
+The testing on the computer and laptop followed the 
 
+Google Chrome: website worked as expected
 
 
 
