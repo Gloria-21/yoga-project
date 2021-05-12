@@ -111,6 +111,8 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
 
 ## Testing
+
+I have done the testing for my website using the dev tools on google chrome. I have been testing regulary checking that the results were the expected on different sizes, from mobile devices to desktop and tablet, making sure the website was responsive in all of them.
 ### Validator testing
 To check the validity of the codes I have used [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 
@@ -157,7 +159,7 @@ The user will find two different ways to go to the Contact us page. One is situa
 At the very end of the form the user will find a Submit button that will lead to the Success page
 Also on the footer of each page the user will find links to the Yoga project social media 
 
-### Bugs
+### Fixed Bugs
 
 This is my first ever project coding on my own. So far I am finding it challenging as I am trying to put in use what I have learnt on the course so far as well as keep discovering new funtionalities on Boostrap and CSS.
 
@@ -171,6 +173,11 @@ To do so I created the jumbotron class, there was few issues with the image not 
 * The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
 
 * The modal header has been problematic when I have tried the validator as my initial code with a 'p' element being a child of a 'h4' wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using 'br' and 'small' instead.
+
+### Suported screens and browers
+
+
+
 
 ## Deployment
 
@@ -188,4 +195,6 @@ To deploy this website using GitHub the following steps were followed:
 
 After this the website was live on GitHub pages
 
+
+## Credits
 
