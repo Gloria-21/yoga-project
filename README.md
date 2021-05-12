@@ -113,8 +113,9 @@ The wireframes that can be found below have been created using Balsamiq suring t
 ## Testing
 
 I have done the testing for my website using the dev tools on google chrome. I have been testing regulary checking that the results were the expected on different sizes, from mobile devices to desktop and tablet, making sure the website was responsive in all of them.
+I used this tool as a main source to implement my code, trying the functionality and styling effects there first and adding them to my code afterwards.
+At later stage, when the site was deployed, the website was tested by family and friends who looked on different devices and gave feedback on responsitivity and user experience.
 
-At later stage, when the site was deployed, the website was tested by family and friends who looked on different devices anda gace feedback on responsitivity and user experience.
 
 
 ### Validator testing
