@@ -115,6 +115,8 @@ The wireframes that can be found below have been created using Balsamiq suring t
 I have done the testing for my website using the dev tools on google chrome. I have been testing regulary checking that the results were the expected on different sizes, from mobile devices to desktop and tablet, making sure the website was responsive in all of them.
 
 At later stage, when the site was deployed, the website was tested by family and friends who looked on different devices anda gace feedback on responsitivity and user experience.
+
+
 ### Validator testing
 To check the validity of the codes I have used [W3C Markup Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 
@@ -131,18 +133,22 @@ To check the website performance level as well as the speed I used [Google light
 ### Test user stories
 
 * As a first time visitor and potential client to the webiste I want to easily understand the services offered and if they suit my necesities.
-Upon entering the website, the user will be welcomed warm, calm and easy navigation. ![Alt text](/assets/doc/screenshots/index-img.png)
+Upon entering the website, the user will be welcomed warm, calm and easy navigation. 
+
+![Alt text](/assets/doc/screenshots/index-img.png)
+
 The user will find the services offered signed-posted on the cards as well as the navbar. 
 
 * The user wants to know a what time the classes are
 The user will click either the card inviting to check the schedule or on the tab schedule on the navbar. Once on the schedule page the user will need to scroll down to find the schedule table 
+
 ![Alt text](/assets/doc/screenshots/schedule-img.png)
 
 * Which type of yoga can she enjoys
-The user has to follow the card inviting meeting the team and schedule, once there, in the schedule page the user can check the types of yoga on offer
+The user has to follow the card inviting meeting the team and schedule, once there, in the schedule page the user can check the types of yoga on offer.
 
 * Which kind of education the teachers have
-The user has to follow the card inviting meeting the team. Once on the schedule page the firts section is dedicated to the teachers and their education
+The user has to follow the card inviting meeting the team. Once on the schedule page the firts section is dedicated to the teachers and their education.
 
 * How expensive the services are going to be
 The user has to follow either the schedule card/navbar to Schedule page and scrolling down, passing the table with the shedule itself, the user will find a seccion with the prices.
@@ -151,15 +157,20 @@ Alternatively, if the user rather have online classes has to follow the card to 
 
 * Have more freedom with the on-demand classes
 As we have explained on the previous point the user will go to the On-demand page and will be able to chose and purchase from the different options shown in there. The user will click the purchase button and a modal will pop up offering to create an account with Yoga project. 
+
 ![Alt text](/assets/doc/screenshots/modal-img.png)
-Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has being created succesfully. Also the user will find a button to go to the home page
+
+Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has being created succesfully. Also the user will find a button to go to the home page.
+
 ![Alt text](/assets/doc/screenshots/success-img.png)
 
 * Have a way of communicating with Yoga project in case there is any question
 The user will find two different ways to go to the Contact us page. One is situated on the navbar with the other pages and also on the footer of each page the user will find a Contact us button. Once on the Contact us page the user will find a form with a text area to write a comment.
+
 ![Alt text](/assets/doc/screenshots/contact-img.png)
+
 At the very end of the form the user will find a Submit button that will lead to the Success page
-Also on the footer of each page the user will find links to the Yoga project social media 
+Also on the footer of each page the user will find links to the Yoga project social media.
 
 ### Fixed Bugs
 
@@ -178,7 +189,6 @@ To do so I created the jumbotron class, there was few issues with the image not 
 
 ### Suported screens and browsers
 
-The testing on the computer and laptop followed the 
 
 Google Chrome: website worked as expected
 

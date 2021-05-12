@@ -201,7 +201,7 @@ img {
 /* success page */
 
 .jumbotron-success {
-    background-position: center center;
+    background-position: bottom center no-repeat;
     align-items: center;
     margin-top: 60px;
     height: 90vh;
