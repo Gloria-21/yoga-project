@@ -54,7 +54,7 @@ body {
 /* jumbotron */
 
 .background-container {
-    height: 40vh;
+    height: 45vh;
 
     background: url('../images/hero.jpg') no-repeat bottom center fixed;
     -webkit-background-size: cover;
