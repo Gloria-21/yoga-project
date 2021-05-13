@@ -238,9 +238,9 @@ After this the website was live on GitHub pages
     * Code Institute: I took inspiration above all from the Whisky project and the Mini project to structure my website and my coding
     * Slack community that are quite helpful when you are stuck and laking inspiration
     * Stack Overflow: for helping me fix my [jumbotron](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron)
-    * W3school [webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp) The web has been with boostrap one of the first points of contact when I was incountering a problem. This specific link is for solving an issue with table non being responsive
-    * Boostrap [Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/) for helping to clarify concepts and give ideas
-    * Anna Greaves [website](https://ajgreaves.github.io/bootstrap-grid-demo/index.html) help me with the grid and layout of the site
+    * [W3school](https://www.w3schools.com/howto/howto_css_table_responsive.asp) The web has been with boostrap one of the first points of contact when I was incountering a problem. This specific link is for solving an issue with table non being responsive
+    * [Boostrap](https://hackerthemes.com/bootstrap-cheatsheet/) cheatsheet for helping to clarify concepts and give ideas
+    * [Anna Greaves](https://ajgreaves.github.io/bootstrap-grid-demo/index.html) website help me with the grid and layout of the site
 
 * Acknowledgement:
     * I would like to thank to my fellow students in the Slack community and the tutor in there for their support
