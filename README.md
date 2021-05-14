@@ -192,14 +192,15 @@ To do so I created the jumbotron class, there were few issues with the image not
 
 * When I added the cards for the schedules and the online courses to my features they showed one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side-by-side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encountered some issues as the cards weren't being responsive anymore, and the footer out of place as well. I targeted the margin-left to align the site and make it responsive, after that it worked correctly.
 
-* The table created for the schedule.html wasn't responsive on mobile or tablet as the footer was not covering the same area as the table. I added ```html <div style="overflow-x:auto;">``` as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
+* The table created for the schedule.html wasn't responsive on mobile or tablet as the footer was not covering the same area as the table. I added ```<div style="overflow-x:auto;">``` as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
 
-* The modal header has been problematic when I have tried the validator as my initial code with a ```html 'p'``` element being a child of a ```html'h4'``` wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using ```html 'br'``` and ```html 'small'``` instead.
+* The modal header has been problematic when I have tried the validator as my initial code with a ```'p'``` element being a child of a ```'h4'``` wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using ```'br'``` and ```'small'``` instead.
 
 ### Supported screens and browsers
 
 The website was mainly tested on different screen sizes using the devtool.
 The web behaves in a responsive way in the different mobile sizes (Moto G4, Galaxy S5/A71, Pixel 2/2XL/3, iPhone 5/SE/6/7/8, iPhone 6/7/8 plus, iPhone X/10/12, Huawei p30)
+The website is not 100% responsive on Galaxy Fold. I have added ```overflow: auto``` class to CSS but still is an unfixed bug
 
 It also behave as expected on tablets (iPad, iPad pro, surface duo)
 
