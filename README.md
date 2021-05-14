@@ -192,9 +192,9 @@ To do so I created the jumbotron class, there were few issues with the image not
 
 * When I added the cards for the schedules and the online courses to my features they showed one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side-by-side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encountered some issues as the cards weren't being responsive anymore, and the footer out of place as well. I targeted the margin-left to align the site and make it responsive, after that it worked correctly.
 
-* The table created for the schedule.html wasn't responsive on mobile or tablet as the footer was not covering the same area as the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
+* The table created for the schedule.html wasn't responsive on mobile or tablet as the footer was not covering the same area as the table. I added ```html <div style="overflow-x:auto;">``` as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
 
-* The modal header has been problematic when I have tried the validator as my initial code with a 'p' element being a child of a 'h4' wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using 'br' and 'small' instead.
+* The modal header has been problematic when I have tried the validator as my initial code with a ```html 'p'``` element being a child of a ```html'h4'``` wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using ```html 'br'``` and ```html 'small'``` instead.
 
 ### Supported screens and browsers
 
@@ -226,6 +226,19 @@ These are the steps followed to deploy this website using GitHub:
 6. Confirm my selection 
 
 After this, the website was live on GitHub pages
+
+### Making a Local Clone
+
+Making a local clone of your repository allow others to view the original code and even to add changes on their own local copy.
+
+To do so you have to 
+1. Log in to GitHub and select teh repository you wish to clone
+2. Click the download button or Code button
+3. Copy the url that will show on the box
+4. Open Gitpod (or your preferred IDE)
+5. Use the "git clone" command in the terminal followed by url copied before
+
+A clone of the original repository should be available on your computer
 
 ## Credits
 
