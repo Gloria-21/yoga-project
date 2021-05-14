@@ -199,7 +199,8 @@ To do so I created the jumbotron class, there were few issues with the image not
 ### Supported screens and browsers
 
 The website was mainly tested on different screen sizes using the devtool.
-The web behaves in a responsive way in the different mobile sizes (Moto G4, Galaxy S5/A71, Pixel 2/2XL/3, iPhone 5/SE/6/7/8, iPhone 6/7/8 plus, iPhone X/10/12, Huawei) 
+The web behaves in a responsive way in the different mobile sizes (Moto G4, Galaxy S5/A71, Pixel 2/2XL/3, iPhone 5/SE/6/7/8, iPhone 6/7/8 plus, iPhone X/10/12, Huawei p30)
+
 It also behave as expected on tablets (iPad, iPad pro, surface duo)
 
 * Google Chrome: website worked as expected
@@ -259,10 +260,11 @@ A clone of the original repository should be available on your computer
     * Stack Overflow: for helping me fix my [jumbotron](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron)
     * [W3school](https://www.w3schools.com/howto/howto_css_table_responsive.asp) The web has been with Bootstrap one of the first points of contact when I was encountering a problem. This specific link is for solving an issue with the table not being responsive
     * [Boostrap](https://hackerthemes.com/bootstrap-cheatsheet/) cheatsheet for helping to clarify concepts and give ideas
-    * [Anna Greaves](https://ajgreaves.github.io/bootstrap-grid-demo/index.html) website help me with the grid and layout of the site
+    * [Anna Greaves](https://ajgreaves.github.io/bootstrap-grid-demo/index.html) website help me with the grid and layout of the site. Her comments on how to create the milestone proyect on the Slack channel #user-centric-frontend were very helpful as well.
 
-* Acknowledgement:
+* Acknowledgements:
     * I would like to thank my fellow students in the Slack community and the tutor is there for their support
     * Tutor support for their assistance resolving bugs 
     * Also I would like to thank my mentor for his advice and aid in debugging technical issues 
+    * The websites I used to inspire me were [KateWebster](https://katwebsteryoga.com/) and [CamYoga](https://www.camyoga.co.uk/)
 
