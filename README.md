@@ -54,6 +54,7 @@ In the future, I would like to add another path for clients that already have an
 * **Color scheme**
 
     I have used colorSpace to generate my colour scheme. The Natural Palette was the final choice and that includes #DF7D6D, #FFF6F3, #BB8378, #EDE9D0 as main colours that run all the way through the website giving warmth and continuity to the theme.
+    ![NaturalPalette](/doc/screenshots/palette.png)
 
 * **Images**
 
