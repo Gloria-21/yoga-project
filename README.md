@@ -124,7 +124,7 @@ To check the validity of the codes I have used [W3C Markup Validation](https://v
 
 All the pages of the project passed the validator with 0 errors [Home](/doc/validator/index-html-validator.png) [Schedule](/doc/validator/schedule-html-validator.png) [On-demand](/doc/validator/online-courses-html-validator.png) [Contact-us](/doc/validator/contact-us-html-validator.png) 
 
-Also the CSS page passed the validation with 0 erros [CSS](/assets/doc/validator/css-validator.png) 
+Also the CSS page passed the validation with 0 erros [CSS](/doc/validator/css-validator.png) 
 
 ### Performance
 
@@ -200,6 +200,7 @@ To do so I created the jumbotron class, there were few issues with the image not
 
 The website was mainly tested on different screen sizes using the devtool.
 The web behaves in a responsive way in the different mobile sizes (Moto G4, Galaxy S5/A71, Pixel 2/2XL/3, iPhone 5/SE/6/7/8, iPhone 6/7/8 plus, iPhone X/10/12, Huawei p30)
+
 The website is not 100% responsive on Galaxy Fold. I have added ```overflow: auto``` class to CSS but still is an unfixed bug
 
 It also behave as expected on tablets (iPad, iPad pro, surface duo)
