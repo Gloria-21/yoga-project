@@ -9,11 +9,11 @@
 The purpose of this project is to create a yoga studio in Cambridgeshire that offers Hatta, Vinyasa yoga, and meditation. Providing that one of the teachers is a midwife they also offer prenatal and baby yoga. The studio impart possibilities for both face to face and online courses classes, making this way more accessible the practice of yoga
 
 ## User stories
-The end user of this project is mainly the female population as the usual majority of attendance on yoga classes is women. Also, we have to bear in mind the prenatal and baby yoga classes are going to bring mums to be and mums to the classes, so it is expected that the scope of women attending the studio will be in the range of 20 to 50 years old.
+The end-user of this project is mainly the female population as the usual majority of attendance on yoga classes is women. Also, we have to bear in mind the prenatal and baby yoga classes are going to bring mums to be and mums to the classes, so it is expected that the scope of women attending the studio will be in the range of 20 to 50 years old.
 
-The end user wants information about the services that Yoga Project has to offer 
+The end-user wants information about the services that Yoga Project has to offer 
 
-* The user wants to know a what time the classes are
+* The user wants to know what time the classes are
 * Which type of yoga can she enjoys
 * Which kind of education the teachers have
 * How expensive the services are going to be
@@ -26,30 +26,30 @@ It has a calming and warm welcome feeling with a jumbotron and cards as visual r
 The cards, navbar and Contact Us button on the footer helps to navigate to other pages very easily
 
 * **Schedule page:**
-It is divided into two sections, the teachers bio and the schedule table. The use of alternate colors and the pictures of teaches helps to create a contrast amongst both
+It is divided into two sections, the teachers' bio, and the schedule table. The use of alternate colors and the pictures of teaches helps to create a contrast amongst both
 
 * **On-demand Classes:**
-It is divided in three sections maked with pictures that show the different classes online offered. They have buttons to purchase them and that activate a modal to sign up. When that button is clicked it leads to the Success page
+It is divided into three sections made with pictures that show the different classes online offered. They have buttons to purchase them and that activate a modal to sign up. When that button is clicked it leads to the Success page
 
 * **Contact us:**
-This page wasn't planned on the original wireframe, it was created as was going along with the project and it become clear the it was necessary to have it. It follows the same structure of Navbar and footer as well as the same chromatic scheme, but present a form as main elemet of the body as well as a button that lead to the Sucess page
+This page wasn't planned on the original wireframe, it was created as was going along with the project and it becomes clear it was necessary to have it. It follows the same structure of Navbar and footer as well as the same chromatic scheme, but present a form as the main element of the body as well as a button that leads to the Sucess page
 
 * **Success page**
-This page wasn't included on the original plan either. It has the general stucture of Navbar and footer being the main body a jumbotrom with a background image and a message and a button to go to the Home page
+This page wasn't included in the original plan either. It has the general structure of Navbar and footer being the main body a jumbotron with a background image and a message and a button to go to the Home page
 
 * **Navbar:**
-The navbar has links to all the pages and all pages has it, so in this way the navigation is smooth. Also on the mobile version it can be found on the top right corner as a burger button that collapses, giving a better UX experience
+The navbar has links to all the pages and all pages have it, so in this way the navigation is smooth. Also on the mobile version, it can be found on the top right corner as a burger button that collapses, giving a better UX experience
 
 * **Footer:**
 Each page has on the footer a Contact Us button that links to the Contact us page, also has links to social media
 
 ## Future Features
 
-In the future I would like to add another path for clients that already have an account and would like to sign up. Also I would like to implement the payment system on the website and add some users reviews.
+In the future, I would like to add another path for clients that already have an account and would like to sign up. Also, I would like to implement the payment system on the website and add some user reviews.
 ## Design
 * **Typography**
 
-    I used google fonts for my typography. I have chosen fonts Viga for the headers and Sarabun for the rest ot the page
+    I used google fonts for my typography. I have chosen fonts Viga for the headers and Sarabun for the rest of the page
     
 * **Color scheme**
 
@@ -60,7 +60,7 @@ In the future I would like to add another path for clients that already have an 
     All the images on the website have been taken from [Pexels](https://www.pexels.com/)
 ## Wireframe
 
-The wireframes that can be found below have been created using Balsamiq suring the Scope plane part of the design and planning process of this project.
+The wireframes that can be found below have been created using Balsamiq during the Scope plane part of the design and planning process of this project.
 
 
 * [Landing page Mobile Wireframe](https://share.balsamiq.com/g/u5ix7GDWbSYkA11w6SGrx5.png)
@@ -75,18 +75,18 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
  As it follows below
 ### Languages used
-* [HTML5](https://en.wikipedia.org/wiki/HTML5) I have used HTML5 to design the structure  adn the content of the webiste 
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) I have used HTML5 to design the structure  and the content of the website 
 
 * [CSS3](https://en.wikipedia.org/wiki/CSS) I have used CSS3 to style the apearence of the website
 ### Frameworks, Libraries & Programs Used
 
 1. [Bootsrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
-    I have used Boostrap to help with responsiveness of the website as well as the styling
+    I have used Bootstrap to help with the responsiveness of the website as well as the styling
 
 2. [Google Font](https://fonts.google.com/)
 
-    I have used Google font to import "Josefine Slab" into my style.css file, which is being used in all pages throughout the project
+    I have used Google font to import "Josefine Slab" into my style.css file, which is being used on all pages throughout the project
 
 3. [FontAwesome](https://fontawesome.com/)
 
@@ -102,20 +102,20 @@ The wireframes that can be found below have been created using Balsamiq suring t
 
 6. [Github](https://github.com/Gloria-21/yoga-project)
 
-    I used GitHub to store the projects code after being pushed from Gitpod
+    I used GitHub to store the project's code after being pushed from Gitpod
 
 7. [Am I responsive](http://ami.responsivedesign.is/)
 
-    I used Am I responsive to create the mockup at the beggining of the README.md document
+    I used Am I responsive to create the mockup at the beginning of the README.md document
 
 
 
 ## Testing
 
-I have done the testing for my website using the dev tools on google chrome. I have been testing regulary checking that the results were the expected on different sizes, from mobile devices to desktop and tablet, making sure the website was responsive in all of them.
-I used this tool as a main source to implement my code, trying the functionality and styling effects there first and adding them to my code afterwards.
+I have done the testing for my website using the dev tools on google chrome. I have been testing regularly checking that the results were the expected on different sizes, from mobile devices to desktop and tablet, making sure the website was responsive in all of them.
+I used this tool as a main source to implement my code, trying the functionality and styling effects there first and adding them to my code afterward.
 
-At later stage, when the site was deployed, the website was tested by family and friends who looked on different devices and gave feedback on responsitivity and user experience.
+At a later stage, when the site was deployed, the website was tested by family and friends who looked on different devices and gave feedback on responsitivity and user experience.
 
 
 
@@ -136,37 +136,38 @@ To check the website performance level as well as the speed I used [Google light
 
 _These stories have links to screenshots to the desktop version and all different sizes of mobiles on the dev tool_
 
-1. As a first time visitor and potential client to the webiste I want to easily understand the services offered and if they suit my necesities.
-    * Upon entering the website, the user will be welcomed warm, calm and easy navigation. 
+1. As a first-time visitor and potential client to the website I want to easily understand the services offered and if they suit my necessities.
+    * Upon entering the website, the user will be welcomed with a warm, calm ,and easy navigation. 
 
       [Home-Desktop](/doc/screenshots/index-img.png) [Home-mobile](/doc/screenshots/index-mobile.png)
 
     * The user will find the services offered signed-posted on the cards as well as the navbar. 
 
-2. The user wants to know a what time the classes are
+2. The user wants to know what time the classes are
     * The user will click either the card inviting to check the schedule or on the tab schedule on the navbar. 
-    * Once on the schedule page the user will need to scroll down to find the schedule table 
+    * Once on the Schedule page the user will need to scroll down to find the schedule table 
 
       [Schedule-Desktop](/doc/screenshots/schedule-img.png) [Schedule-mobile](/doc/screenshots/schedule-mobile.png)
 
 3. Which type of yoga can she enjoys
-    * The user has to follow the card inviting meeting the team and schedule, once there, in the schedule page the user can check the types of yoga on offer.
+    * The user has to follow the card inviting meeting the team and schedule, once there, on the Schedule page the user can check the types of yoga on offer.
 
 4. Which kind of education the teachers have
-    * The user has to follow the card inviting meeting the team. Once on the schedule page the firts section is dedicated to the teachers and their education.
+    * The user has to follow the card inviting meeting the team. Once on the Schedule page, the first section is dedicated to the teachers and their education.
 
 5. How expensive the services are going to be
-    * The user has to follow either the schedule card/navbar to Schedule page and scrolling down, passing the table with the shedule itself, the user will find a seccion with the prices.
-    * Alternatively, if the user rather have online classes has to follow the card to On-demand and once on the On-demand page will be able to see prices for the different courses. Also the user will be able to purchase the the course if this is the prefered option. 
+    * The user has to follow either the schedule card/navbar to the Schedule page and scrolling down, passing the table with the schedule itself, the user will find a section with the prices.
+    * Alternatively, if the user rather has online classes has to follow the card to On-demand and once on the On-demand page will be able to see prices for the different courses. Also, the user will be able to purchase the course if this is the preferred option. 
 
       [On-demand-Desktop](/doc/screenshots/ondemand-img.png) [On-demand-mobile](/doc/screenshots/ondemand-mobile.png)
 
 6. Have more freedom with the on-demand classes
-    * As we have explained on the previous point the user will go to the On-demand page and will be able to chose and purchase from the different options shown in there. ....* The user will click the purchase button and a modal will pop up offering to create an account with Yoga project. 
+    * As we have explained in the previous point the user will go to the On-demand page and will be able to choose and purchase from the different options shown there. 
+    * The user will click the purchase button and a modal will pop up offering to create an account with Yoga project. 
 
       [Modal-Desktop](/doc/screenshots/modal-img.png) [Modal-mobile](/doc/screenshots/Modal-mobile.png)
 
-    * Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has being created succesfully. 
+    * Once that is done the user will click the Create Account button the user will be lead to the Success page where a message will the user know that the account has been created successfully. 
     * Also the user will find a button to go to the home page.
 
       [Success-Desktop](/doc/screenshots/success-img.png) [Success-mobile](/doc/screenshots/Success-mobile.png)
@@ -177,29 +178,29 @@ _These stories have links to screenshots to the desktop version and all differen
 
       [Contact-Desktop](/doc/screenshots/contact-img.png)
 
-    * At the very end of the form the user will find a Submit button that will lead to the Success page
+    * At the very end of the form, the user will find a Submit button that will lead to the Success page
     * Also on the footer of each page the user will find links to the Yoga project social media.
 
 ### Fixed Bugs
 
-This is my first ever project coding on my own. So far I am finding it challenging as I am trying to put in use what I have learnt on the course so far as well as keep discovering new functionalities on Boostrap and CSS.
+This has been my first ever project coding on my own. It has been challenging to say the least and a true learning curve as I had to use the knowledge learned in the course as well as introducing the new functionalities found on Boostrap and CSS
 
-* My Navbar has been problematic from the beginning as I used navbar-light and bg-light and when I tried to apply my styling to the CSS sheet I was not able ot override boostrap styling. Looking for an answer I found !important, which worked perfectly until I was informed that is considered bad practice. I decided to delete the two boostrap classes that there were being problematic and once that was done all the styling on CSS started to work. That have shown me the importance of understanding the different classes that boostrap has on offer.
+* My Navbar has been problematic from the beginning as I used navbar-light and bg-light and when I tried to apply my styling to the CSS sheet I was not able to override Bootstrap styling. Looking for an answer I found !important, which worked perfectly until I was informed that is considered bad practice. I decided to delete the two Bootstrap classes that there were being problematic and once that was done all the styling on CSS started to work. That has shown me the importance of understanding the different classes that Bootstrap has on offer.
 
-* I have problems also with the sizes of the images. First of all I made a mistake on my HTML structure as I missed the first part of the link on my src class. Also looking on CCS-tricks I found a way to use as a background, that it wasn't my initial thought. That structure didn't work on my design as it was too cluttered but made me think of a smaller image and then write the welcome message on it.
-To do so I created the jumbotron class, there was few issues with the image not matching the size of the jumbotron that were sorted after consulting [Stackoverflow webpage](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron). I realised that container instead container-fluid would suit the project better for the result I had planned. Also I had to do some adjustment on the margins to get the design to be responsive
+* I have problems also with the sizes of the images. First of all, I made a mistake on my HTML structure as I missed the first part of the link in my src class. Also looking at CCS-tricks I found a way to use it as a background, that wasn't my initial thought. That structure didn't work on my design as it was too cluttered but made me think of a smaller image and then write the welcome message on it.
+To do so I created the jumbotron class, there were few issues with the image not matching the size of the jumbotron that were sorted after consulting [Stackoverflow webpage](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron). I realized that container instead of container-fluid would suit the project better for the result I had planned. Also, I had to do some adjustment on the margins to get the design to be responsive
 
-* When I added the cards for the schedules and the online courses to my features they shown one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side by side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encounter some issues as the cards weren't being responsive anymore and the footer out of place as well. I targeted the margin left to align the site and make it responsive, after that it worked correctly.
+* When I added the cards for the schedules and the online courses to my features they showed one underneath the other. I reviewed the grid for the cards and I managed to get a responsive side-by-side result on my desktop/tablet layout following the [boostrap cheat-sheet](https://hackerthemes.com/bootstrap-cheatsheet/). After adding the Jumbotron class, I have encountered some issues as the cards weren't being responsive anymore, and the footer out of place as well. I targeted the margin-left to align the site and make it responsive, after that it worked correctly.
 
-* The table created for the schedule.html wasn't responsive on mobile or table as the footer was not covering the the same area than the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
+* The table created for the schedule.html wasn't responsive on mobile or tablet as the footer was not covering the same area as the table. I added div style="overflow-x:auto;" as seen on [w3school webpage](https://www.w3schools.com/howto/howto_css_table_responsive.asp)
 
 * The modal header has been problematic when I have tried the validator as my initial code with a 'p' element being a child of a 'h4' wasn't correct. I did find the answer on [strackoverflow](https://stackoverflow.com/questions/50026151/bootstrap-4-add-a-subtitle-to-a-modal/50026307) using 'br' and 'small' instead.
 
-### Suported screens and browsers
+### Supported screens and browsers
 
-Google Chrome: website worked as expected
-Firefox: website worked as expected
-Microsoft Edge: website worked as expected
+* Google Chrome: website worked as expected
+* Firefox: website worked as expected
+* Microsoft Edge: website worked as expected
 
 ## Deployment
 
@@ -224,7 +225,7 @@ These are the steps followed to deploy this website using GitHub:
 5. Select the Master Branch from the Source dropdown menu
 6. Confirm my selection 
 
-After this the website was live on GitHub pages
+After this, the website was live on GitHub pages
 
 ## Credits
 
@@ -236,14 +237,14 @@ After this the website was live on GitHub pages
 
 * Coding:
     * Code Institute: I took inspiration above all from the Whisky project and the Mini project to structure my website and my coding
-    * Slack community that are quite helpful when you are stuck and laking inspiration
+    * Slack community that is quite helpful when you are stuck and lacking inspiration
     * Stack Overflow: for helping me fix my [jumbotron](https://stackoverflow.com/questions/31147543/how-to-fit-100-of-an-image-to-a-jumbotron)
-    * [W3school](https://www.w3schools.com/howto/howto_css_table_responsive.asp) The web has been with boostrap one of the first points of contact when I was incountering a problem. This specific link is for solving an issue with table non being responsive
+    * [W3school](https://www.w3schools.com/howto/howto_css_table_responsive.asp) The web has been with Bootstrap one of the first points of contact when I was encountering a problem. This specific link is for solving an issue with the table not being responsive
     * [Boostrap](https://hackerthemes.com/bootstrap-cheatsheet/) cheatsheet for helping to clarify concepts and give ideas
     * [Anna Greaves](https://ajgreaves.github.io/bootstrap-grid-demo/index.html) website help me with the grid and layout of the site
 
 * Acknowledgement:
-    * I would like to thank to my fellow students in the Slack community and the tutor in there for their support
+    * I would like to thank my fellow students in the Slack community and the tutor is there for their support
     * Tutor support for their assistance resolving bugs 
-    * Also I would like to thank to my mentor for his advice and aid debugging technical issues 
+    * Also I would like to thank my mentor for his advice and aid in debugging technical issues 
 
