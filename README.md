@@ -198,9 +198,14 @@ To do so I created the jumbotron class, there were few issues with the image not
 
 ### Supported screens and browsers
 
+The website was mainly tested on different screen sizes using the devtool.
+The web behaves in a responsive way in the different mobile sizes (Moto G4, Galaxy S5/A71, Pixel 2/2XL/3, iPhone 5/SE/6/7/8, iPhone 6/7/8 plus, iPhone X/10/12, Huawei) 
+It also behave as expected on tablets (iPad, iPad pro, surface duo)
+
 * Google Chrome: website worked as expected
 * Firefox: website worked as expected
 * Microsoft Edge: website worked as expected
+* Safari: website worked as expected
 
 ## Deployment
 
